@@ -1,3 +1,4 @@
+# Solution
 There was not much information on the website so I just went for the files.
 
 ![image](https://github.com/user-attachments/assets/5afdde1f-2141-4cf4-9370-d7bd02438e7d)
