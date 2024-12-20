@@ -1,2 +1,2 @@
 # CTFs
-My solutions to ctfs.
+My solutions to ctfs. (noob btw)
